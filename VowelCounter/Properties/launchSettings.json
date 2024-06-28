@@ -2,7 +2,7 @@
   "profiles": {
     "VowelCounter": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\Root\\Source\\Repos\\Portfolio\\VowelCounter\\VowelCounter\\test.txt -d=a"
+      "commandLineArgs": "C:\\Users\\Root\\Source\\Repos\\Portfolio\\VowelCounter\\VowelCounter\\test.txt"
     }
   }
 }

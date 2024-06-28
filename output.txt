@@ -1,7 +1,9 @@
+Normal Mode
+
 Line: Lorem ipsum dolor sit amet, consectetur adipiscing elit.  - Vowels: 19
 Line: Donec arcu tortor, tempor vel ex nec, tincidunt auctor augue.  - Vowels: 21
 Line: Morbi laoreet erat in tellus molestie accumsan.  - Vowels: 18
-Line: Pellentesque blandit velit eget odio pulvinar, ultricies dignissim lorem placerat.  - Vowels: 29
+Line: Pellentesque blondit velit eget odio pulvinor, ultricies dignissim lorem plocerot.  - Vowels: 29
 Line: Praesent ut egestas erat. Integer fringilla ornare fermentum. Morbi id venenatis ex. - Vowels: 29
 Total Vowels: 116
 
