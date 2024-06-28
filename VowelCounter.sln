@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCounter", "VowelCounter\VowelCounter.csproj", "{FB342625-B962-4AEE-A029-81F59405477B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D77D4897-E93B-4E88-8EED-A8BEF3917E44}"
+	ProjectSection(SolutionItems) = preProject
+		output.txt = output.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB342625-B962-4AEE-A029-81F59405477B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB342625-B962-4AEE-A029-81F59405477B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB342625-B962-4AEE-A029-81F59405477B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB342625-B962-4AEE-A029-81F59405477B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83D0346B-B442-49D8-BF07-9C72FA11CB1C}
+	EndGlobalSection
+EndGlobal

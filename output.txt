@@ -1,0 +1,14 @@
+Line: Lorem ipsum dolor sit amet, consectetur adipiscing elit.  - Vowels: 19
+Line: Donec arcu tortor, tempor vel ex nec, tincidunt auctor augue.  - Vowels: 21
+Line: Morbi laoreet erat in tellus molestie accumsan.  - Vowels: 18
+Line: Pellentesque blandit velit eget odio pulvinar, ultricies dignissim lorem placerat.  - Vowels: 29
+Line: Praesent ut egestas erat. Integer fringilla ornare fermentum. Morbi id venenatis ex. - Vowels: 29
+Total Vowels: 116
+
+Weird mode  = ON Parameter -d=a // should skip line 4
+
+Line: Lorem ipsum dolor sit amet, consectetur adipiscing elit.  - Vowels: 2
+Line: Donec arcu tortor, tempor vel ex nec, tincidunt auctor augue.  - Vowels: 3
+Line: Morbi laoreet erat in tellus molestie accumsan.  - Vowels: 4
+Line: Praesent ut egestas erat. Integer fringilla ornare fermentum. Morbi id venenatis ex. - Vowels: 6
+Total Vowels: 15
